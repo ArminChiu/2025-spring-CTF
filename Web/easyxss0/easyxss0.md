@@ -1,5 +1,7 @@
 使用Webhook获取接受cookie的平台。
 
+需要绕过对`<script>`标签的过滤。
+
 在comment中提交以下内容：
 
 ```javascript
