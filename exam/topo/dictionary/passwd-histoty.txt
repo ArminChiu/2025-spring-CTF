@@ -1,0 +1,15 @@
+password
+pass
+123456
+111111
+admin123
+!QAZ@WSX
+administrator
+admin
+ubuntu
+user
+test
+root
+guest
+sun
+default

@@ -1,0 +1,428 @@
+192.168.1.102:135 open
+192.168.1.101:22 open
+192.168.1.111:80 open
+192.168.1.1:80 open
+192.168.1.108:22 open
+192.168.1.102:7680 open
+192.168.1.115:445 open
+192.168.1.102:139 open
+192.168.1.107:80 open
+192.168.1.102:3306 open
+192.168.1.107:135 open
+192.168.1.107:7890 open
+192.168.1.111:8080 open
+192.168.1.115:139 open
+192.168.1.107:139 open
+192.168.1.115:80 open
+192.168.1.102:22 open
+192.168.1.111:22 open
+192.168.1.102:445 open
+192.168.1.111:21 open
+192.168.1.115:22 open
+192.168.1.101:80 open
+192.168.1.111:139 open
+192.168.1.111:445 open
+192.168.1.101:445 open
+192.168.1.108:139 open
+192.168.1.108:445 open
+192.168.1.101:7680 open
+192.168.1.101:139 open
+192.168.1.107:445 open
+192.168.1.101:135 open
+192.168.1.111:443 open
+192.168.1.101:8090 open
+192.168.1.108:8888 open
+192.168.1.111:9443 open
+192.168.1.111:9999 open
+[*] NetInfo 
+[*]192.168.1.102
+   [->]ArminChiu
+   [->]172.31.16.1
+   [->]192.168.1.102
+   [->]192.168.195.1
+   [->]192.168.177.1
+   [->]2400:dd01:103a:1012:c477:1b2d:acdb:7c5f
+   [->]2400:dd01:103a:1012:45cb:6c6e:bc98:11ef
+   [->]2001:0:2851:b9f0:2434:a8e:9038:ba4f
+[*] WebTitle http://192.168.1.115      code:200 len:10671  title:Apache2 Ubuntu Default Page: It works
+[*] NetInfo 
+[*]192.168.1.107
+   [->]PRO16
+   [->]192.168.1.107
+[*] WebTitle http://192.168.1.111      code:307 len:164    title:307 Temporary Redirect 跳转url: http://192.168.1.111:9999
+[*] NetInfo 
+[*]192.168.1.101
+   [->]Jiuhao
+   [->]192.168.56.1
+   [->]192.168.1.101
+   [->]192.168.72.1
+   [->]192.168.71.1
+   [->]172.26.32.1
+   [->]2400:dd01:103a:1012:312c:2c18:7b66:f4d1
+   [->]2400:dd01:103a:1012:40e2:cb81:165f:7edc
+   [->]fd15:4ba5:5a2b:1008:42ee:fe0d:ebcb:ca5
+   [->]fd15:4ba5:5a2b:1008:e48b:24d5:9901:1f37
+[*] NetBios 192.168.1.107   WORKGROUP\PRO16               
+[*] WebTitle http://192.168.1.107:7890 code:400 len:0      title:None
+[*] WebTitle http://192.168.1.1        code:200 len:912    title:TL-XDR3010易展版
+[*] WebTitle http://192.168.1.111:9999 code:307 len:164    title:307 Temporary Redirect 跳转url: https://192.168.1.111:9443/
+[*] WebTitle http://192.168.1.101:8090 code:400 len:334    title:Bad Request
+[*] WebTitle https://192.168.1.111     code:307 len:164    title:307 Temporary Redirect 跳转url: https://192.168.1.111:9443
+[*] NetBios 192.168.1.101   WORKGROUP\JIUHAO              
+[*] NetBios 192.168.1.111   WORKGROUP\XJS-NAS             
+[*] NetBios 192.168.1.115   WORKGROUP\                    
+[*] WebTitle https://192.168.1.111:9443 code:307 len:164    title:307 Temporary Redirect 跳转url: https://192.168.1.111:9443/desktop/?os=ugospro
+[*] WebTitle https://192.168.1.111:8080 code:200 len:1812   title:qBittorrent WebUI
+[*] WebTitle https://192.168.1.111:9443/desktop/?os=ugospro code:200 len:2478   title:""
+[*] WebTitle https://192.168.1.111:9443/desktop/?os=ugospro code:200 len:2478   title:""
+[*] WebTitle https://192.168.1.111:9443/desktop/?os=ugospro code:200 len:2478   title:""
+[*] WebTitle https://192.168.1.111:9443/desktop/?os=ugospro code:200 len:2478   title:""
+[*] WebTitle http://192.168.1.101      code:200 len:696    title:IIS Windows
+[*] WebTitle http://192.168.1.107      code:200 len:696    title:IIS Windows
+[*] WebTitle http://192.168.1.108:8888 code:200 len:2858   title:WebSSH
+192.168.1.102:3306 open
+192.168.1.102:135 open
+192.168.1.102:22 open
+192.168.1.102:445 open
+192.168.1.102:139 open
+192.168.1.102:7680 open
+[*] NetInfo 
+[*]192.168.1.102
+   [->]ArminChiu
+   [->]172.31.16.1
+   [->]192.168.1.102
+   [->]192.168.195.1
+   [->]192.168.177.1
+   [->]2400:dd01:103a:1012:c477:1b2d:acdb:7c5f
+   [->]2400:dd01:103a:1012:45cb:6c6e:bc98:11ef
+   [->]2001:0:2851:b9f0:2434:a8e:9038:ba4f
+192.168.1.102:135 open
+192.168.1.102:22 open
+192.168.1.102:445 open
+192.168.1.102:3306 open
+192.168.1.102:139 open
+192.168.1.102:7680 open
+[*] NetInfo 
+[*]192.168.1.102
+   [->]ArminChiu
+   [->]172.31.16.1
+   [->]192.168.1.102
+   [->]192.168.195.1
+   [->]192.168.177.1
+   [->]2400:dd01:103a:1012:c477:1b2d:acdb:7c5f
+   [->]2400:dd01:103a:1012:45cb:6c6e:bc98:11ef
+   [->]2001:0:2851:b9f0:2434:a8e:9038:ba4f
+192.168.1.115:80 open
+192.168.1.115:139 open
+192.168.1.115:445 open
+192.168.1.115:22 open
+[*] WebTitle http://192.168.1.115      code:200 len:10671  title:Apache2 Ubuntu Default Page: It works
+[*] NetBios 192.168.1.115   WORKGROUP\                    
+192.168.1.115:80 open
+192.168.1.115:22 open
+192.168.1.115:445 open
+192.168.1.115:139 open
+[*] WebTitle http://192.168.1.115      code:200 len:10671  title:Apache2 Ubuntu Default Page: It works
+[*] NetBios 192.168.1.115   WORKGROUP\                    
+192.168.1.115:139 open
+192.168.1.115:22 open
+192.168.1.115:80 open
+192.168.1.115:445 open
+[*] WebTitle http://192.168.1.115      code:200 len:10671  title:Apache2 Ubuntu Default Page: It works
+[*] NetBios 192.168.1.115   WORKGROUP\                    
+192.168.1.115:80 open
+192.168.1.115:139 open
+192.168.1.115:22 open
+192.168.1.115:445 open
+[*] WebTitle http://192.168.1.115      code:200 len:10671  title:Apache2 Ubuntu Default Page: It works
+[*] NetBios 192.168.1.115   WORKGROUP\                    
+192.168.1.115:139 open
+192.168.1.115:80 open
+192.168.1.115:22 open
+192.168.1.115:445 open
+[*] WebTitle http://192.168.1.115      code:200 len:10671  title:Apache2 Ubuntu Default Page: It works
+[*] NetBios 192.168.1.115   WORKGROUP\                    
+192.168.1.115:139 open
+192.168.1.115:80 open
+192.168.1.115:22 open
+192.168.1.115:445 open
+[*] WebTitle http://192.168.1.115      code:200 len:10671  title:Apache2 Ubuntu Default Page: It works
+[*] NetBios 192.168.1.115   WORKGROUP\                    
+192.168.1.115:22 open
+192.168.1.115:139 open
+192.168.1.115:80 open
+192.168.1.115:445 open
+[*] WebTitle http://192.168.1.115      code:200 len:10671  title:Apache2 Ubuntu Default Page: It works
+[*] NetBios 192.168.1.115   WORKGROUP\                    
+192.168.1.115:22 open
+192.168.1.115:139 open
+192.168.1.115:445 open
+192.168.1.115:80 open
+[*] WebTitle http://192.168.1.115      code:200 len:10671  title:Apache2 Ubuntu Default Page: It works
+[*] NetBios 192.168.1.115   WORKGROUP\                    
+192.168.1.102:135 open
+192.168.1.115:22 open
+192.168.1.102:3306 open
+192.168.1.115:80 open
+192.168.1.1:80 open
+192.168.1.102:22 open
+192.168.1.102:445 open
+192.168.1.102:139 open
+192.168.1.115:445 open
+192.168.1.108:445 open
+192.168.1.101:135 open
+192.168.1.111:445 open
+192.168.1.111:22 open
+192.168.1.101:139 open
+192.168.1.111:139 open
+192.168.1.111:21 open
+192.168.1.111:443 open
+192.168.1.111:80 open
+192.168.1.101:22 open
+192.168.1.101:80 open
+192.168.1.108:22 open
+192.168.1.115:139 open
+192.168.1.108:139 open
+192.168.1.101:445 open
+192.168.1.102:7680 open
+192.168.1.107:80 open
+192.168.1.107:445 open
+192.168.1.107:139 open
+192.168.1.107:135 open
+192.168.1.101:7680 open
+192.168.1.111:8080 open
+192.168.1.101:8090 open
+192.168.1.108:8888 open
+192.168.1.111:9443 open
+192.168.1.107:7890 open
+192.168.1.111:9999 open
+[*] NetInfo 
+[*]192.168.1.102
+   [->]ArminChiu
+   [->]172.31.16.1
+   [->]192.168.1.102
+   [->]192.168.195.1
+   [->]192.168.177.1
+   [->]2400:dd01:103a:1012:c477:1b2d:acdb:7c5f
+   [->]2400:dd01:103a:1012:45cb:6c6e:bc98:11ef
+   [->]2001:0:2851:b9f0:2434:a8e:9038:ba4f
+[*] WebTitle http://192.168.1.111      code:307 len:164    title:307 Temporary Redirect 跳转url: http://192.168.1.111:9999
+[*] WebTitle http://192.168.1.101      code:200 len:696    title:IIS Windows
+[*] NetInfo 
+[*]192.168.1.101
+   [->]Jiuhao
+   [->]192.168.56.1
+   [->]192.168.1.101
+   [->]192.168.72.1
+   [->]192.168.71.1
+   [->]172.26.32.1
+   [->]2400:dd01:103a:1012:312c:2c18:7b66:f4d1
+   [->]2400:dd01:103a:1012:40e2:cb81:165f:7edc
+   [->]fd15:4ba5:5a2b:1008:42ee:fe0d:ebcb:ca5
+   [->]fd15:4ba5:5a2b:1008:e48b:24d5:9901:1f37
+[*] WebTitle http://192.168.1.111:9999 code:307 len:164    title:307 Temporary Redirect 跳转url: https://192.168.1.111:9443/
+[*] NetBios 192.168.1.101   WORKGROUP\JIUHAO              
+[*] NetBios 192.168.1.111   WORKGROUP\XJS-NAS             
+[*] WebTitle http://192.168.1.101:8090 code:400 len:334    title:Bad Request
+[*] WebTitle https://192.168.1.111     code:307 len:164    title:307 Temporary Redirect 跳转url: https://192.168.1.111:9443
+[*] WebTitle http://192.168.1.1        code:200 len:912    title:TL-XDR3010易展版
+[*] NetBios 192.168.1.115   WORKGROUP\                    
+[*] WebTitle https://192.168.1.111:8080 code:200 len:1812   title:qBittorrent WebUI
+[*] WebTitle https://192.168.1.111:9443 code:307 len:164    title:307 Temporary Redirect 跳转url: https://192.168.1.111:9443/desktop/?os=ugospro
+[*] WebTitle https://192.168.1.111:9443/desktop/?os=ugospro code:200 len:2478   title:""
+[*] WebTitle https://192.168.1.111:9443/desktop/?os=ugospro code:200 len:2478   title:""
+[*] WebTitle https://192.168.1.111:9443/desktop/?os=ugospro code:200 len:2478   title:""
+[*] WebTitle https://192.168.1.111:9443/desktop/?os=ugospro code:200 len:2478   title:""
+[*] WebTitle http://192.168.1.107      code:200 len:696    title:IIS Windows
+[*] NetBios 192.168.1.107   WORKGROUP\PRO16               
+[*] NetInfo 
+[*]192.168.1.107
+   [->]PRO16
+   [->]192.168.1.107
+[*] WebTitle http://192.168.1.107:7890 code:400 len:0      title:None
+[*] WebTitle http://192.168.1.115      code:200 len:10671  title:Apache2 Ubuntu Default Page: It works
+[*] WebTitle http://192.168.1.108:8888 code:200 len:2858   title:WebSSH
+[+] SSH 192.168.1.115:22:armin 022419
+192.168.1.115:22 open
+192.168.1.115:80 open
+192.168.1.101:22 open
+192.168.1.111:22 open
+192.168.1.108:22 open
+192.168.1.111:8080 open
+192.168.1.111:21 open
+192.168.1.101:80 open
+192.168.1.1:80 open
+192.168.1.102:22 open
+192.168.1.102:7680 open
+192.168.1.102:135 open
+192.168.1.111:80 open
+192.168.1.102:139 open
+192.168.1.115:139 open
+192.168.1.101:445 open
+192.168.1.115:445 open
+192.168.1.108:139 open
+192.168.1.102:445 open
+192.168.1.102:3306 open
+192.168.1.111:445 open
+192.168.1.107:139 open
+192.168.1.107:135 open
+192.168.1.107:445 open
+192.168.1.107:80 open
+192.168.1.111:443 open
+192.168.1.101:139 open
+192.168.1.101:135 open
+192.168.1.107:7890 open
+192.168.1.108:445 open
+192.168.1.111:139 open
+192.168.1.101:7680 open
+192.168.1.101:8090 open
+192.168.1.108:8888 open
+192.168.1.111:9443 open
+192.168.1.111:9999 open
+[*] NetInfo 
+[*]192.168.1.102
+   [->]ArminChiu
+   [->]172.31.16.1
+   [->]192.168.1.102
+   [->]192.168.195.1
+   [->]192.168.177.1
+   [->]2400:dd01:103a:1012:c477:1b2d:acdb:7c5f
+   [->]2400:dd01:103a:1012:45cb:6c6e:bc98:11ef
+   [->]2001:0:2851:b9f0:2434:a8e:9038:ba4f
+[*] WebTitle http://192.168.1.115      code:200 len:10671  title:Apache2 Ubuntu Default Page: It works
+[*] WebTitle http://192.168.1.111      code:307 len:164    title:307 Temporary Redirect 跳转url: http://192.168.1.111:9999
+[*] NetInfo 
+[*]192.168.1.101
+   [->]Jiuhao
+   [->]192.168.56.1
+   [->]192.168.1.101
+   [->]192.168.72.1
+   [->]192.168.71.1
+   [->]172.26.32.1
+   [->]2400:dd01:103a:1012:312c:2c18:7b66:f4d1
+   [->]2400:dd01:103a:1012:40e2:cb81:165f:7edc
+   [->]fd15:4ba5:5a2b:1008:42ee:fe0d:ebcb:ca5
+   [->]fd15:4ba5:5a2b:1008:e48b:24d5:9901:1f37
+[*] WebTitle http://192.168.1.101      code:200 len:696    title:IIS Windows
+[*] WebTitle http://192.168.1.111:9999 code:307 len:164    title:307 Temporary Redirect 跳转url: https://192.168.1.111:9443/
+[*] WebTitle http://192.168.1.101:8090 code:400 len:334    title:Bad Request
+[*] WebTitle http://192.168.1.107      code:200 len:696    title:IIS Windows
+[*] NetBios 192.168.1.101   WORKGROUP\JIUHAO              
+[*] NetBios 192.168.1.111   WORKGROUP\XJS-NAS             
+[*] NetInfo 
+[*]192.168.1.107
+   [->]PRO16
+   [->]192.168.1.107
+[*] WebTitle https://192.168.1.111     code:307 len:164    title:307 Temporary Redirect 跳转url: https://192.168.1.111:9443
+[*] NetBios 192.168.1.115   WORKGROUP\                    
+[*] NetBios 192.168.1.107   WORKGROUP\PRO16               
+[*] WebTitle http://192.168.1.107:7890 code:400 len:0      title:None
+[*] WebTitle https://192.168.1.111:9443 code:307 len:164    title:307 Temporary Redirect 跳转url: https://192.168.1.111:9443/desktop/?os=ugospro
+[*] WebTitle https://192.168.1.111:8080 code:200 len:1812   title:qBittorrent WebUI
+[*] WebTitle http://192.168.1.1        code:200 len:912    title:TL-XDR3010易展版
+[*] WebTitle https://192.168.1.111:9443/desktop/?os=ugospro code:200 len:2478   title:""
+[*] WebTitle https://192.168.1.111:9443/desktop/?os=ugospro code:200 len:2478   title:""
+[*] WebTitle https://192.168.1.111:9443/desktop/?os=ugospro code:200 len:2478   title:""
+[*] WebTitle https://192.168.1.111:9443/desktop/?os=ugospro code:200 len:2478   title:""
+[+] SSH 192.168.1.102:22:armin Qmy13636198487
+[*] WebTitle http://192.168.1.108:8888 code:200 len:2858   title:WebSSH
+[+] SSH 192.168.1.115:22:armin 022419
+192.168.1.102:135 open
+192.168.1.102:7680 open
+192.168.1.111:22 open
+192.168.1.101:80 open
+192.168.1.107:80 open
+192.168.1.111:139 open
+192.168.1.107:135 open
+192.168.1.111:443 open
+192.168.1.107:445 open
+192.168.1.115:80 open
+192.168.1.108:445 open
+192.168.1.107:139 open
+192.168.1.108:139 open
+192.168.1.102:22 open
+192.168.1.115:22 open
+192.168.1.1:80 open
+192.168.1.101:139 open
+192.168.1.101:445 open
+192.168.1.111:21 open
+192.168.1.108:22 open
+192.168.1.102:139 open
+192.168.1.101:7680 open
+192.168.1.111:80 open
+192.168.1.111:445 open
+192.168.1.101:135 open
+192.168.1.115:445 open
+192.168.1.111:8080 open
+192.168.1.102:445 open
+192.168.1.102:3306 open
+192.168.1.101:22 open
+192.168.1.115:139 open
+192.168.1.107:7890 open
+192.168.1.101:8090 open
+192.168.1.108:8888 open
+192.168.1.111:9443 open
+192.168.1.111:9999 open
+[*] NetInfo 
+[*]192.168.1.102
+   [->]ArminChiu
+   [->]172.31.16.1
+   [->]192.168.1.102
+   [->]192.168.195.1
+   [->]192.168.177.1
+   [->]2400:dd01:103a:1012:c477:1b2d:acdb:7c5f
+   [->]2400:dd01:103a:1012:45cb:6c6e:bc98:11ef
+   [->]2001:0:2851:b9f0:2434:a8e:9038:ba4f
+[*] WebTitle http://192.168.1.115      code:200 len:10671  title:Apache2 Ubuntu Default Page: It works
+[*] NetInfo 
+[*]192.168.1.101
+   [->]Jiuhao
+   [->]192.168.56.1
+   [->]192.168.1.101
+   [->]192.168.72.1
+   [->]192.168.71.1
+   [->]172.26.32.1
+   [->]2400:dd01:103a:1012:312c:2c18:7b66:f4d1
+   [->]2400:dd01:103a:1012:40e2:cb81:165f:7edc
+   [->]fd15:4ba5:5a2b:1008:42ee:fe0d:ebcb:ca5
+   [->]fd15:4ba5:5a2b:1008:e48b:24d5:9901:1f37
+[*] WebTitle http://192.168.1.107      code:200 len:696    title:IIS Windows
+[*] WebTitle http://192.168.1.101      code:200 len:696    title:IIS Windows
+[*] NetBios 192.168.1.115   WORKGROUP\                    
+[*] NetInfo 
+[*]192.168.1.107
+   [->]PRO16
+   [->]192.168.1.107
+[*] NetBios 192.168.1.107   WORKGROUP\PRO16               
+[*] WebTitle http://192.168.1.111      code:307 len:164    title:307 Temporary Redirect 跳转url: http://192.168.1.111:9999
+[*] WebTitle http://192.168.1.107:7890 code:400 len:0      title:None
+[*] WebTitle http://192.168.1.1        code:200 len:912    title:TL-XDR3010易展版
+[*] WebTitle https://192.168.1.111     code:307 len:164    title:307 Temporary Redirect 跳转url: https://192.168.1.111:9443
+[*] NetBios 192.168.1.101   WORKGROUP\JIUHAO              
+[*] NetBios 192.168.1.111   WORKGROUP\XJS-NAS             
+[*] WebTitle http://192.168.1.101:8090 code:400 len:334    title:Bad Request
+[*] WebTitle http://192.168.1.111:9999 code:307 len:164    title:307 Temporary Redirect 跳转url: https://192.168.1.111:9443/
+[*] WebTitle https://192.168.1.111:8080 code:200 len:1812   title:qBittorrent WebUI
+[*] WebTitle https://192.168.1.111:9443 code:307 len:164    title:307 Temporary Redirect 跳转url: https://192.168.1.111:9443/desktop/?os=ugospro
+[*] WebTitle https://192.168.1.111:9443/desktop/?os=ugospro code:200 len:2478   title:""
+[*] WebTitle https://192.168.1.111:9443/desktop/?os=ugospro code:200 len:2478   title:""
+[*] WebTitle https://192.168.1.111:9443/desktop/?os=ugospro code:200 len:2478   title:""
+[*] WebTitle https://192.168.1.111:9443/desktop/?os=ugospro code:200 len:2478   title:""
+[*] WebTitle http://192.168.1.108:8888 code:200 len:2858   title:WebSSH
+192.168.1.102:445 open
+192.168.1.102:139 open
+192.168.1.102:135 open
+192.168.1.102:22 open
+192.168.1.102:7680 open
+192.168.1.102:3306 open
+[*] NetInfo 
+[*]192.168.1.102
+   [->]ArminChiu
+   [->]172.31.16.1
+   [->]192.168.1.102
+   [->]192.168.195.1
+   [->]192.168.177.1
+   [->]2400:dd01:103a:1012:c477:1b2d:acdb:7c5f
+   [->]2400:dd01:103a:1012:45cb:6c6e:bc98:11ef
+   [->]2001:0:2851:b9f0:2434:a8e:9038:ba4f
+[+] SSH 192.168.1.102:22:armin Qmy13636198487

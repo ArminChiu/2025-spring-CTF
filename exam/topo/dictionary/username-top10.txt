@@ -1,0 +1,10 @@
+admin
+ubuntu
+administrator
+sun
+root
+test
+user
+guest
+default
+temp
